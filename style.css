@@ -19,6 +19,7 @@ body::-webkit-scrollbar{
     url(/images/bg-pattern-bottom-mobile.svg);
   background-color: hsl(0, 0%, 100%);
   background-repeat: no-repeat;
+  background-position: left top, right bottom;
   display: flex;
   flex-direction: column;
   align-items: center;
