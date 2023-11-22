@@ -24,8 +24,10 @@ body::-webkit-scrollbar{
   align-items: center;
   justify-content: center;
   width: 100%;
+  max-width: 1200px;
   min-height: 100vh;
   padding: 80px 20px;
+  margin: auto;
 }
 .inner {
   display: flex;
