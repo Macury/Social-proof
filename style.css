@@ -8,12 +8,12 @@ body {
   /* background-color: blueviolet; */
   font-size: 15px;
   color: hsl(303, 10%, 53%);
-  width: 100vw;
-  overflow: scroll;
+  /* width: 100vw; */
+  /* overflow: scroll; */
 }
-body::-webkit-scrollbar{
-  display: none;
-}
+/* body::-webkit-scrollbar{ */
+  /* display: none; */
+/* } */
 .wrap {
   background-image: url(/images/bg-pattern-top-mobile.svg),
     url(/images/bg-pattern-bottom-mobile.svg);
